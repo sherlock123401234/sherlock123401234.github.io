@@ -14,13 +14,13 @@ Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het interne
 Je wordt overspoelt met internetverkeer.
 <br>
 
-![netwerk-dump](wireshark.jpg) 
+![netwerk-dump](wireshark.JPG) 
 
 <br>
 
 Tijdens het scrollen kom ik verschillende soorten verkeer tegen, zoals http verkeer naar *zoeken.nl*:
 <br>
-![zoektermen](zoektermen.jpg) 
+![zoektermen](zoektermen.JPG) 
 
 <br> 
 
