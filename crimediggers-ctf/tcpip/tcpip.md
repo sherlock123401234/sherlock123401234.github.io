@@ -54,3 +54,10 @@ Out: zip: Zip archive data, at least v5.1 to extract, compression method=AES Enc
 ```
 <br>
 Duidelijk een zipfile met een wachtwoord.
+<br><br>
+En bij het uitpakken de flag:
+#
+
+<br><br>
+
+
