@@ -6,5 +6,5 @@ In een digitale oplichtingszaak hebben we netwerkverkeer onderschept. Kun jij ui
 
 <hr>
 
-Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het internetverkeer van onze verdachte. Dit bestand kunnen we openen in Wireshark.
+Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het internetverkeer van onze verdachte.<br> We kunnen het bestand openen in Wireshark.
 <br>
