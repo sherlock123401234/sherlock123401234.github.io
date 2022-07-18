@@ -1,3 +1,5 @@
+⚠️ # Bevat spoilers!
+
 ![tcpip-logo](tcpipsvg.svg) 
 # TCP/IP Challenge 
 
@@ -8,3 +10,4 @@ In een digitale oplichtingszaak hebben we netwerkverkeer onderschept. Kun jij ui
 
 Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het internetverkeer van onze verdachte.<br> We kunnen het bestand openen in Wireshark.
 <br>
+
