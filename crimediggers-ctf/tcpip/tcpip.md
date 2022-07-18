@@ -38,11 +38,19 @@ We kunnen zien dat deze payload encoded is in base64:
 <br>
 `Content-Transfer-Encoding: base64`
 <br><br><br>
-Nu decoden: <br>
+We moeten dit decoden:
+
+```
+UEsDBDMDAQBjAJVgmE4AAAAAOAAAACQAAAAIAAsAWjNyMGIzdDQBmQcAAgBBRQEAAAar8f0CJH0b
+0dRIZM21W8X3QBvYXHkbbRcPRri6nWSxmPXDZROI9vjScAQ0ES3wrtOI2IvsuyYhUEsBAj8DMwMB
+AGMAlWCYTgAAAAA4AAAAJAAAAAgALwAAAAAAAAAggLSBAAAAAFozcjBiM3Q0CgAgAAAAAAABABgA
+gEIVIoX61AGAQhUihfrUAYBCFSKF+tQBAZkHAAIAQUUBAABQSwUGAAAAAAEAAQBlAAAAaQAAAAAA
+```
+<br>
 ```
 In: base64 -d decode > zip
 In: file zip
 Out: zip: Zip archive data, at least v5.1 to extract, compression method=AES Encrypted
 ```
 <br>
-Duidelijk een zipfile met een wachwoord.
+Duidelijk een zipfile met een wachtwoord.
