@@ -1,1 +1,1 @@
-![tcpip-logo](tcpip.svg)
+![tcpip-logo](tcpipsvg.svg)
