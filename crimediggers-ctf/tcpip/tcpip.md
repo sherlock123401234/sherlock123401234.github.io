@@ -36,7 +36,7 @@ Dit doet vermoeden dat er een zip bestand in het spel is, en na verder speuren i
 <br><br>
 We kunnen zien dat deze payload encoded is in base64:
 <br>
-```
+`
 Content-Transfer-Encoding: base64
-```
+`
 
