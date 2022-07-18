@@ -1,6 +1,0 @@
-# My HackTheBox write-ups:
-
-
-- 
--
--
