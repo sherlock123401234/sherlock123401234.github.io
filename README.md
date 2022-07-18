@@ -13,8 +13,8 @@ My interests:
 <br>
 
 ## What you will find here
-- [My HackTheBox write-ups](htb.md)
-- Osint tools i like
+- 
+- 
 
 
 
