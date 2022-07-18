@@ -1,6 +1,6 @@
 # Opgeloste Crimediggers CTF's:
 
 
-- [TCP/IP](tcpip.md)
+- [TCP/IP](crimediggers-ctf/tcpip/tcpip.md)
 -
 -
