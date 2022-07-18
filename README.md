@@ -5,10 +5,10 @@ I started this page as a reference, and for people that are interested in what I
 -----------------------------------
 
 My interests:
-🔎 OSINT |
-💻 Forensics |
-👨‍💻 Hacking |
-🚦  Network Security
+🔎OSINT |
+💻Forensics |
+👨‍💻Hacking |
+🚦Network Security
 
 
 
