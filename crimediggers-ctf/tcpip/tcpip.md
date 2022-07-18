@@ -37,4 +37,12 @@ Dit doet vermoeden dat er een zip bestand in het spel is, en na verder speuren i
 We kunnen zien dat deze payload encoded is in base64:
 <br>
 `Content-Transfer-Encoding: base64`
-
+<br><br><br>
+Nu decoden: <br>
+```
+In: base64 -d decode > zip
+In: file zip
+Out: zip: Zip archive data, at least v5.1 to extract, compression method=AES Encrypted
+```
+<br>
+Duidelijk een zipfile met een wachwoord.
