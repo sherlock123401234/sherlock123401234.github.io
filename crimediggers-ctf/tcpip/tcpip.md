@@ -21,8 +21,15 @@ Je wordt overspoelt met internetverkeer.
 Tijdens het scrollen kom ik verschillende soorten verkeer tegen, zoals http verkeer naar *zoeken.nl*:
 <br>
 ![zoektermen](zoektermen.JPG) 
-
+<br>
+Iets met een zip bestand ontsleutelen?
 <br> 
 
 Maar we zoeken naar een flag. <br>
-Even later kom ik pop verkeer tegen
+Even later kom ik pop verkeer tegen, waar aan het einde van deze mail conversatie een wachtwoord gegeven is:
+![zoektermen](pop-verkeer.JPG) 
+<br><br>
+Dit doet vermoeden dat er een zip bestand in het spel is, en na verder speuren inderdaad een zip file in een netwerkpakket:
+<br>
+![zoektermen](zip.JPG) 
+
