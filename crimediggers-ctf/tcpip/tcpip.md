@@ -1,4 +1,4 @@
-⚠️ # Bevat spoilers!
+# Bevat spoilers! ⚠️ 
 
 ![tcpip-logo](tcpipsvg.svg) 
 # TCP/IP Challenge 
