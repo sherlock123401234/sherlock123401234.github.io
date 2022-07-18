@@ -11,3 +11,18 @@ In een digitale oplichtingszaak hebben we netwerkverkeer onderschept. Kun jij ui
 Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het internetverkeer van onze verdachte.<br> We kunnen het bestand openen in Wireshark.
 <br>
 
+Je wordt overspoelt met internetverkeer.
+<br>
+
+![netwerk-dump](wireshark.jpg) 
+
+<br>
+
+Tijdens het scrollen kom ik verschillende soorten verkeer tegen, zoals http verkeer naar *zoeken.nl*:
+<br>
+![zoektermen](zoektermen.jpg) 
+
+<br> 
+
+Maar we zoeken naar een flag. <br>
+Even later kom ik pop verkeer tegen
