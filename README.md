@@ -5,9 +5,9 @@ I started this page as a reference, and for people that are interested in what I
 -----------------------------------
 
 My interests:
-🔎 OSINT
-💻 Forensics
-👨‍💻 Hacking
+🔎 OSINT |
+💻 Forensics |
+👨‍💻 Hacking |
 🚦  Network Security
 
 
