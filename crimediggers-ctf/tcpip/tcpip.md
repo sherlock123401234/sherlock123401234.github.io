@@ -11,7 +11,7 @@ In een digitale oplichtingszaak hebben we netwerkverkeer onderschept. Kun jij ui
 Bij deze challenge krijg je een pcap bestand. Dit pcap bestand bevat het internetverkeer van onze verdachte.<br> We kunnen het bestand openen in Wireshark.
 <br>
 
-Je wordt overspoelt met internetverkeer.
+Je wordt overspoelt met internetverkeer:
 <br>
 
 ![netwerk-dump](wireshark.JPG) 
@@ -19,17 +19,24 @@ Je wordt overspoelt met internetverkeer.
 <br>
 
 Tijdens het scrollen kom ik verschillende soorten verkeer tegen, zoals http verkeer naar *zoeken.nl*:
-<br>
+<br><br>
 ![zoektermen](zoektermen.JPG) 
 <br>
-Iets met een zip bestand ontsleutelen?
+Iets met een zip bestand ontsleutelen...
 <br> 
 
-Maar we zoeken naar een flag. <br>
-Even later kom ik pop verkeer tegen, waar aan het einde van deze mail conversatie een wachtwoord gegeven is:
+<br>
+Even later kom ik **pop** verkeer tegen, waar aan het einde van deze mail conversatie een wachtwoord gegeven is:
+<br>
 ![zoektermen](pop-verkeer.JPG) 
 <br><br>
 Dit doet vermoeden dat er een zip bestand in het spel is, en na verder speuren inderdaad een zip file in een netwerkpakket:
-<br>
+<br><br>
 ![zoektermen](zip.JPG) 
+<br><br>
+We kunnen zien dat deze payload encoded is in base64:
+<br>
+```
+Content-Transfer-Encoding: base64
+```
 
